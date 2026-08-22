@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
