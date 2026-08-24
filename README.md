@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1872-stone-game-viii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1927-sum-game) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
