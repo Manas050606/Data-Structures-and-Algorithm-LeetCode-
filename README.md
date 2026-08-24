@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
