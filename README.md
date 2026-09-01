@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [1872-stone-game-viii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1872-stone-game-viii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0013-roman-to-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0067-add-binary) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -114,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1872-stone-game-viii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
