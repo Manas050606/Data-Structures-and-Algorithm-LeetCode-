@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0014-longest-common-prefix) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [1872-stone-game-viii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1872-stone-game-viii) |
 ## Memoization
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
