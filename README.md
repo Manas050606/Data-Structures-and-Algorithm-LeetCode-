@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0412-fizz-buzz) |
+| [0940-distinct-subsequences-ii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1927-sum-game) |
 ## Trie
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1872-stone-game-viii) |
 ## Memoization
 |  |
