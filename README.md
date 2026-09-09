@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
