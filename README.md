@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [1872-stone-game-viii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0069-sqrtx) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
