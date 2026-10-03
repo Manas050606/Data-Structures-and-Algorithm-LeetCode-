@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0367-valid-perfect-square) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
