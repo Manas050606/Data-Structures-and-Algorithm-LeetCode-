@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0367-valid-perfect-square) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0202-happy-number) |
 ## Tree
 |  |
 | ------- |
