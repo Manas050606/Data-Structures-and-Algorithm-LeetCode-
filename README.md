@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [1872-stone-game-viii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -116,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
