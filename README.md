@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [1872-stone-game-viii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manas050606/Data-Structures-and-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
